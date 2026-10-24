@@ -1,0 +1,10 @@
+{
+  "name": "poker-kill",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node tools/serve.js"
+  }
+}
